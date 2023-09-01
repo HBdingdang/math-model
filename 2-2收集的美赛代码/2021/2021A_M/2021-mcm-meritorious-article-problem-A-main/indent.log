@@ -1,0 +1,26 @@
+INFO: latexindent.exe version 3.8, 2020-03-21, a script to indent .tex files
+      latexindent.exe lives here: C:/dev/texlive/2020/bin/win32/
+      Tue Feb  9 00:12:25 2021
+      Filename: c:/syy/Study/MathModeling/mcm-fight/4/__latexindent_temp.tex
+INFO: Processing switches:
+      -y|--yaml: YAML settings specified via command line
+      -c|--cruft: cruft directory
+INFO: Directory for backup files and c:/syy/Study/MathModeling/mcm-fight//indent.log: c:/syy/Study/MathModeling/mcm-fight/
+INFO: YAML settings read: defaultSettings.yaml
+      Reading defaultSettings.yaml from C:/dev/texlive/2020/bin/win32/defaultSettings.yaml
+      Reading defaultSettings.yaml (2nd attempt, TeXLive, Windows) from C:/dev/texlive/2020/bin/win32/../../texmf-dist/scripts/latexindent/defaultSettings.yaml
+INFO: YAML settings read: indentconfig.yaml or .indentconfig.yaml
+      Home directory is C:\Users\ShaunYoung11 (didn't find either indentconfig.yaml or .indentconfig.yaml)
+      To specify user settings you would put indentconfig.yaml here: C:\Users\ShaunYoung11/indentconfig.yaml
+      Alternatively, you can use the hidden file .indentconfig.yaml as: C:\Users\ShaunYoung11/.indentconfig.yaml
+INFO: YAML settings read: -y switch
+      Updating masterSettings with defaultIndent:   
+INFO: Phase 1: searching for objects
+INFO: Phase 2: finding surrounding indentation
+INFO: Phase 3: indenting objects
+INFO: Phase 4: final indentation check
+INFO: Output routine:
+      Not outputting to file; see -w and -o switches for more options.
+      --------------
+INFO: Please direct all communication/issues to:
+      https://github.com/cmhughes/latexindent.pl

@@ -1,0 +1,23 @@
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Problem Background}{2}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Restatement of Problem}{2}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Analysis of Problem}{2}{subsection.1.3}%
+\contentsline {section}{\numberline {2}Assumptions}{3}{section.2}%
+\contentsline {section}{\numberline {3}Notations}{4}{section.3}%
+\contentsline {section}{\numberline {4}The Models}{4}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Woody Fibers Decomposition Model}{4}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Ground Litter Decomposition Model}{6}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Fungi Selection}{7}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Fungi Interaction Model}{8}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Fungal Species Development Predictions}{10}{subsection.4.5}%
+\contentsline {subsubsection}{\numberline {4.5.1}Single Fungal Species}{10}{subsubsection.4.5.1}%
+\contentsline {subsubsection}{\numberline {4.5.2}Combinations of Fungal Species}{11}{subsubsection.4.5.2}%
+\contentsline {section}{\numberline {5}Analysis of the Impacts of Fungal Diversity}{15}{section.5}%
+\contentsline {section}{\numberline {6}Sensitivity Analysis}{15}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Analysis of Rapid Environmental Fluctuations}{15}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Sensitivity Test}{16}{subsection.6.2}%
+\contentsline {section}{\numberline {7}Strengths and Weaknesses}{16}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Strengths}{16}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Weaknesses}{17}{subsection.7.2}%
+\contentsline {section}{\numberline {8}Article for College Level Biology Textbook}{17}{section.8}%
+\contentsline {section}{References}{20}{section*.1}%
